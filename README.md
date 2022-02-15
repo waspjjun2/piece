@@ -1,2 +1,2 @@
 # piece
-collect pieces, become masterpice.
+collect pieces, get masterpiece.
